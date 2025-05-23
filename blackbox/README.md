@@ -35,8 +35,16 @@ tox
 
 For Python 3.5, run the following command manually:
 
+For Linux:
+
 ```bash
 python3.5 pickle_test_runner_py35.py
+```
+
+For Window:
+
+```bash
+py -3.5 pickle_test_runner_py35.py
 ```
 
 ## File Structure
