@@ -1,0 +1,113 @@
+{
+  "fuzz_0": {
+    "user": "k4i1a>",
+    "active": true,
+    "data": [
+      null,
+      [
+        21
+      ],
+      "NaN",
+      [
+        82
+      ],
+      {
+        "=[\n1R": null,
+        "-a`}G": null,
+        "mNxEA": "<J[\n#-uJdb",
+        "@^paj": null
+      }
+    ]
+  },
+  "fuzz_1": {
+    "user": "Oe&\fJr",
+    "active": false,
+    "data": [
+      "e3kR?'Ffg-",
+      "XB^F\nC~Gv&"
+    ]
+  },
+  "fuzz_2": [
+    "<@rHLd29_r",
+    581
+  ],
+  "fuzz_3": [
+    "W",
+    "r",
+    "X",
+    "3",
+    "\t"
+  ],
+  "fuzz_4": {
+    "user": "32W>\rL",
+    "active": false,
+    "data": [
+      [
+        32
+      ],
+      false,
+      "NaN"
+    ]
+  },
+  "fuzz_5": {
+    "user": "V\fJD%#",
+    "active": true,
+    "data": [
+      -795,
+      false,
+      {
+        "z_[L7": 998,
+        "j)R %": "fR^hR\nvZyD",
+        "@X|U]": "LE\n\f&xf={r",
+        "9n=pj": null
+      },
+      null,
+      "NaN"
+    ]
+  },
+  "fuzz_6": [
+    [
+      373,
+      null
+    ],
+    false,
+    "\":[nLM4_y:",
+    [
+      "I:(21hEcI=",
+      {
+        ":LX?T": null,
+        "Osedi": "\u000b,&`CsO8|g"
+      },
+      null,
+      {
+        "&qLc7": 789,
+        "?l#4M": 804
+      }
+    ]
+  ],
+  "fuzz_7": [
+    {
+      "id": 0,
+      "value": 0.6506226749538927,
+      "meta": null
+    },
+    {
+      "id": 1,
+      "value": 0.16411958222898504,
+      "meta": null
+    },
+    {
+      "id": 2,
+      "value": 0.6664223618821751,
+      "meta": null
+    }
+  ],
+  "fuzz_8": "%2V\r,1Lt=<%xQh/?%p*",
+  "fuzz_9": [
+    "L",
+    "*",
+    "d",
+    ":",
+    "l"
+  ]
+}
